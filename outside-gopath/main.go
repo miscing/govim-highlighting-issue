@@ -1,10 +1,10 @@
 package main
 
 import (
-//	"fmt"
+	"fmt"
 )
 
 func main() {
-	test := "test"
+	//	test := "test"
 	fmt.Println(test)
 }
